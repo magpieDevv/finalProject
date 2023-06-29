@@ -12,4 +12,14 @@ public class ReservationController {
 
 	@Autowired
 	private ReservationService reservationService;
+	
+	@RequestMapping("/indexFarm.do")
+	public void resFarm() {}
+	
+		@RequestMapping("/reserForm.do")
+		public void reserForm() {}	
+			
+		@RequestMapping("/resermoney2.do")
+		public void resermoney() {}
+		
 }
