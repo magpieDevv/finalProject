@@ -3,7 +3,7 @@
 	padding: 0;
 	list-style: none;
 	text-decoration: none;
-	color: black;
+	color: black;     
 }
 
 body {
@@ -52,7 +52,6 @@ header .top-links a {
 	color: black;
 	font-size: x-small;
 	font-weight: bold;
-	align: left;
 }
 header .logo {
 	width: 200px;
@@ -75,13 +74,13 @@ header .middle-links {
 }
 
 .middle-nav>li {
-   display: inline-block;
-   list-style: none;
-   width: 100px;
-   text-align: center;
-   padding: 5px 0;
-   position: relative;
-   float: right;
+	display: inline-block;
+	list-style: none;
+	width: 120px;
+	text-align: center;
+	padding: 5px 0;
+	position: relative;
+	float: right;
 }
 
 .navimg {

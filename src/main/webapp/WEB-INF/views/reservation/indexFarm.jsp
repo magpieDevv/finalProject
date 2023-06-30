@@ -51,6 +51,7 @@ String id = (String) session.getAttribute("idKey");
 						usemap="#image-map" class="mapImg" >
 						
 					<map name="image-map">
+					
 						<area target="_blank" alt="군포" title="군포주말농장" onblur="this.focus()" nohref
 							coords="141,313,130,322,123,333,134,335,145,332,150,321"
 							shape="poly"
@@ -87,8 +88,8 @@ String id = (String) session.getAttribute("idKey");
 							<div class="txt">감자마켓</div>
 						</li>
 						<li>
-							<div class="title">이름</div>
-							<div class="txt">군포 농장</div>
+							<div class="title">정보ㄴ</div>
+							<div class="txt"></div>
 						</li>
 						<li>
 							<div class="title">기간</div>
@@ -120,10 +121,10 @@ String id = (String) session.getAttribute("idKey");
 				  <div class="swiper-wrapper">
 				    <!-- Slides -->
 				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
-				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
-				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
-				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
-				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
+				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/v1_76.png"></div>
+				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/v1_93.png"></div>
+				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/v16_560.png"></div>
+				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/v16_558.png"></div>
 				    <div class="swiper-slide"><img src="${pageContext.request.contextPath}/resources/images/soilhands.jpg"></div>
 				  </div>
 
